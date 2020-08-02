@@ -1,0 +1,149 @@
+{
+"flowers": [
+    {
+        "name": "tulips",
+        "bloomtime": "spring",
+        "pruning": "clip all foliage after flower fades and leaves start to yellow",
+        "thinning": "no need to thin",
+        "fertilizer":"general",
+        "image": "./images/tulips.jpg",
+        "pests":"deer,bunnies",
+        "generalinfo":"fall planted bulbs that don't always give good blooms",
+        "location":"various, mostly in front gardens",
+        "moreinfo":"https://www.gardenia.net/plant/botanical-tulips-open-early-are-close-to-the-ground-and-flower-beautifully"
+    },
+    {
+        "name": "crocus",
+        "bloomtime": "spring",
+        "pruning": "clip or pull off foliage once flowers fade and leaves dry up",
+        "thinning": "no need to thin",
+        "fertilizer":"general",
+        "image": "./images/crocus.jpg",
+        "pests":"deer, bunnies",
+        "generalinfo":"fall planted , generally 1st flower in early spring, they spread naturally",
+        "location":"various, mostly in front near house",
+        "moreinfo":"https://www.gardenia.net/plant/crocus-yalta"
+    },
+    {
+        "name": "Candy Tuft",
+        "bloomtime": "spring",
+        "pruning": "prune after all blooms fade",
+        "thinning": "no need",
+        "fertilizer":"general",
+        "image": "./images/candytuft.jpg",
+        "pests":"no known",
+        "generalinfo":"easy care",
+        "location":"Right woods",
+        "moreinfo":"https://www.thespruce.com/candytuft-flowers-for-your-garden-2132549"
+    },
+    {
+        "name": "Lungwort (Pulmonaria species)",
+        "bloomtime": "spring",
+        "pruning": "Clip dead flowers and leaves, a hardy plant and hard to kill!",
+        "thinning": "This plant makes babies , pull these out to keep from cluttering garden",
+        "fertilizer":"general",
+        "image": "./images/pulmonaria.jpg",
+        "pests":"dear resistant",
+        "generalinfo":"easy care for the most part, likes part shade",
+        "location":"various gardens",
+        "moreinfo":"https://www.gardenia.net/plant/pulmonaria-high-contrast"
+    },
+    {
+        "name": "Primrose",
+        "bloomtime": "spring",
+        "pruning": "When flowers fade",
+        "thinning": "No need",
+        "fertilizer":"general",
+        "image": "./images/primrose.jpg",
+        "pests":"none",
+        "generalinfo":"Easy care spring bloomer",
+        "location":"Front woods garden",
+        "moreinfo":"https://www.gardenia.net/plant/primula-belarina-cream"
+    },
+    {
+        "name": "Bleeding Heart",
+        "bloomtime": "later spring",
+        "pruning": "cut back when stems start to yellow",
+        "thinning": "only if neccesary",
+        "fertilizer":"general",
+        "image": "",
+        "pests":"none unknown",
+        "generalinfo":"both pink and white in the gardens",
+        "location":"mostly side woods garden",
+        "moreinfo":""
+    },
+    {
+        "name": "",
+        "bloomtime": "",
+        "pruning": "",
+        "thinning": "",
+        "fertilizer":"",
+        "image": "",
+        "pests":"",
+        "generalinfo":"",
+        "location":"",
+        "moreinfo":""
+    },
+    {
+        "name": "",
+        "bloomtime": "",
+        "pruning": "",
+        "thinning": "",
+        "fertilizer":"",
+        "image": "",
+        "pests":"",
+        "generalinfo":"",
+        "location":"",
+        "moreinfo":""
+    },
+    {
+        "name": "",
+        "bloomtime": "",
+        "pruning": "",
+        "thinning": "",
+        "fertilizer":"",
+        "image": "",
+        "pests":"",
+        "generalinfo":"",
+        "location":"",
+        "moreinfo":""
+    },
+    {
+        "name": "",
+        "bloomtime": "",
+        "pruning": "",
+        "thinning": "",
+        "fertilizer":"",
+        "image": "",
+        "pests":"",
+        "generalinfo":"",
+        "location":"",
+        "moreinfo":""
+    },
+    {
+        "name": "",
+        "bloomtime": "",
+        "pruning": "",
+        "thinning": "",
+        "fertilizer":"",
+        "image": "",
+        "pests":"",
+        "generalinfo":"",
+        "location":"",
+        "moreinfo":""
+    },
+    // stop do you need more template?
+    {
+        "name": "",
+        "bloomtime": "",
+        "pruning": "",
+        "thinning": "",
+        "fertilizer":"",
+        "image": "",
+        "pests":"",
+        "generalinfo":"",
+        "location":"",
+        "moreinfo":""
+    }
+]
+}
